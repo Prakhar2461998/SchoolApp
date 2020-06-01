@@ -1,2 +1,0 @@
-# SchoolApp
-Created with CodeSandbox
